@@ -1,0 +1,19 @@
+{
+  "name": "proshop",
+  "version": "2.0.0",
+  "description": "ecommerce app build with the mern stack",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/askianaan007/proshop-new.git"
+  },
+  "author": "aski anaan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/askianaan007/proshop-new/issues"
+  },
+  "homepage": "https://github.com/askianaan007/proshop-new#readme"
+}
